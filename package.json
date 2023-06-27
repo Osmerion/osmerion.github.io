@@ -1,0 +1,17 @@
+{
+  "name": "osmerion.github.io",
+  "private": true,
+  "scripts": {
+    "build": "nuxi build",
+    "clean": "nuxi cleanup",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "nuxt": "^3.6.1",
+    "rss": "^1.2.2",
+    "sitemap": "^7.1.1"
+  },
+  "packageManager": "yarn@3.6.0"
+}

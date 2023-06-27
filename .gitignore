@@ -3,6 +3,14 @@
 !/.idea/copyright
 !/.idea/scopes
 
+/.yarn/*
+!/.yarn/cache
+!/.yarn/patches
+!/.yarn/plugins
+!/.yarn/releases
+!/.yarn/sdks
+!/.yarn/version
+
 /.nuxt
 /.nitro
 /.cache
