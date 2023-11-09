@@ -5,6 +5,10 @@ export default defineNuxtConfig({
         baseURL: "/"
     },
 
+    css: [
+        "@/assets/css/main.css"
+    ],
+
     typescript: {
         strict: true,
         typeCheck: true
