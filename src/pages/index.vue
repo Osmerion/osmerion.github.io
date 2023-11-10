@@ -15,6 +15,11 @@
 }
 
 .label {
+    line-height: 1.2em;
+
     font-family: "JetBrains Mono", monospace;
+    font-size: 4rem;
+
+    user-select: none;
 }
 </style>

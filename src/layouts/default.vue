@@ -18,5 +18,8 @@
 
     padding-left: 8px;
     padding-right: 8px;
+
+    background-color: var(--background-color);
+    color: var(--on-background-color);
 }
 </style>
