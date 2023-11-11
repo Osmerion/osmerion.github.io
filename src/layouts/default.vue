@@ -4,6 +4,16 @@
     </div>
 </template>
 
+<script setup lang="ts">
+useServerSeoMeta({
+    ogTitle: "Osmerion",
+    ogDescription: "A web presence in the making. Will it take months? Years? Who knows...",
+    ogType: "website",
+    ogImage: "https://www.osmerion.com/logo.png",
+    ogUrl: "https://osmerion.com"
+});
+</script>
+
 <style scoped>
 .layout-container {
     position: absolute;
