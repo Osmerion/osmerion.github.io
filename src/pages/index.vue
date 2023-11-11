@@ -18,7 +18,7 @@
     line-height: 1.2em;
 
     font-family: "JetBrains Mono", monospace;
-    font-size: 4rem;
+    font-size: 4vmax;
 
     user-select: none;
 }
