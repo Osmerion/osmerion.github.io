@@ -1069,7 +1069,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxt/kit@npm:3.8.1, @nuxt/kit@npm:^3.5.3, @nuxt/kit@npm:^3.7.4, @nuxt/kit@npm:^3.8.1":
+"@nuxt/kit@npm:3.8.1, @nuxt/kit@npm:^3.7.4, @nuxt/kit@npm:^3.8.1":
   version: 3.8.1
   resolution: "@nuxt/kit@npm:3.8.1"
   dependencies:
@@ -1190,14 +1190,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxtjs/color-mode@npm:^3.3.0":
-  version: 3.3.0
-  resolution: "@nuxtjs/color-mode@npm:3.3.0"
+"@nuxtjs/color-mode@npm:^3.3.2":
+  version: 3.3.2
+  resolution: "@nuxtjs/color-mode@npm:3.3.2"
   dependencies:
-    "@nuxt/kit": ^3.5.3
+    "@nuxt/kit": ^3.8.1
     lodash.template: ^4.5.0
     pathe: ^1.1.1
-  checksum: 5b90e5bc92bcb4ba57627518a881326b4b1b6280c4fdaa5ed309861475bb7dd9c4e04dc42450ca0c7d42e394019a14d003b935597b9d927f2b06a8ebdfbb1454
+  checksum: 670d2e61c375f37258c08400b94f2885b49f15fbc2748d3dfb9ec72f2a71f283bb91aad9d0ad61892380ebe9da2540f1a199a94a932de0856bcb2e034c961f7b
   languageName: node
   linkType: hard
 
@@ -5382,7 +5382,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "osmerion.github.io@workspace:."
   dependencies:
-    "@nuxtjs/color-mode": ^3.3.0
+    "@nuxtjs/color-mode": ^3.3.2
     nuxt: ^3.8.1
     rss: ^1.2.2
     sitemap: ^7.1.1
