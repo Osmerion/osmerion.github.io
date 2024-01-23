@@ -1,9 +1,11 @@
 <template>
-    <NuxtLayout>
-        <div class="wrapper">
-            <p class="label">// todo: website</p>
-        </div>
-    </NuxtLayout>
+    <div>
+        <NuxtLayout>
+            <div class="wrapper">
+                <p class="label">// todo: website</p>
+            </div>
+        </NuxtLayout>
+    </div>
 </template>
 
 <style scoped>
