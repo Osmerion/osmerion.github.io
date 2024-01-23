@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.3.2",
-    "nuxt": "^3.9.2",
+    "nuxt": "^3.9.3",
     "rss": "^1.2.2",
     "sitemap": "^7.1.1",
     "typescript": "^5.3.3",
