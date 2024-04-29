@@ -9,7 +9,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^3.4.0",
+    "@nuxtjs/color-mode": "^3.4.1",
     "nuxt": "^3.11.2",
     "rss": "^1.2.2",
     "sitemap": "^7.1.1",
