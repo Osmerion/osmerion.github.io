@@ -9,6 +9,8 @@ export default defineNuxtConfig({
         "@/assets/css/main.css"
     ],
 
+    compatibilityDate: "2024-07-02",
+
     modules: [
         "@nuxtjs/color-mode"
     ],
