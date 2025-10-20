@@ -6163,7 +6163,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sax@npm:^1.2.4, sax@npm:^1.4.1":
+"sax@npm:^1.4.1":
   version: 1.4.1
   resolution: "sax@npm:1.4.1"
   checksum: 10/b1c784b545019187b53a0c28edb4f6314951c971e2963a69739c6ce222bfbc767e54d320e689352daba79b7d5e06d22b5d7113b99336219d6e93718e2f99d335
@@ -6311,16 +6311,16 @@ __metadata:
   linkType: hard
 
 "sitemap@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "sitemap@npm:8.0.0"
+  version: 8.0.1
+  resolution: "sitemap@npm:8.0.1"
   dependencies:
     "@types/node": "npm:^17.0.5"
     "@types/sax": "npm:^1.2.1"
     arg: "npm:^5.0.0"
-    sax: "npm:^1.2.4"
+    sax: "npm:^1.4.1"
   bin:
     sitemap: dist/cli.js
-  checksum: 10/8af7ddbf3753f467ec01507cc19710a8846effbbb17c506e6c09aed8c8f445fa9ad7a8bdcb7654183fc755940470a4a194c2c117ad5b9f522d12ca62a8f4d173
+  checksum: 10/45afcf5ab42991f72d6f728cd80f23f7e65af5d79a7e20a66b6b7fc9544abe70dc82b66229f25037079896a8e0a17ac72ea7a60550f288fa8860ea922391b662
   languageName: node
   linkType: hard
 
