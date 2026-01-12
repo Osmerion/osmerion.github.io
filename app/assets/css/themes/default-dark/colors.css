@@ -1,0 +1,11 @@
+.dark-mode body {
+    --background-color: #2B2A33;
+    --on-background-color: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        --background-color: #2B2A33;
+        --on-background-color: #FFFFFF;
+    }
+}
